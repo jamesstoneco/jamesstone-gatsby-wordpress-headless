@@ -53,7 +53,7 @@ module.exports = {
         includedRoutes: [
           "**/posts",
           "**/pages",
-          "**/media",
+          // "**/media",
         ],
       },
     },    // this (optional) plugin enables Progressive Web App + Offline functionality
